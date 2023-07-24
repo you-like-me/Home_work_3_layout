@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Top{
+background: #FFF;
+}
+
+.Menu{
+    width: 1170px;
+    height: 40px;
+    flex-shrink: 0;
+    display: inline;
+}
+
+.Menu_logo{
+    width: 35px;
+    height: 40px;
+    flex-shrink: 0;
+    display: inline;
+    margin-left: 353px;
+    margin-right: 502px;
+}
+
+.logo_text1{
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline;
+}
+
+.logo_text2{
+    color: #F25822;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline;
+}
+
+.Menu_elements{
+    text-decoration: none;
+    display: inline;
+    gap: 10px;
+}
+
+.menu_element1{
+    text-decoration: none;
+    color: #F25822;
+    display: inline;
+}
+
+.menu_element{
+    text-decoration: none;
+    color: #000;
+    display: inline;
+}
+
+.Text{
+    width: 522px;
+    height: 374px;
+    flex-shrink: 0;
+    display: inline-block;
+    margin-right: 340px;
+}
+
+.Title{
+    width: 522px;
+    height: 222px;
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 84px;
+    margin-left: 353px;
+}
+
+.Sub_title{
+    width: 466px;
+    height: 48px;
+    color: #888;
+    font-family: Gilroy-Medium;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 17px;
+    padding-bottom: 37px;
+    margin-left: 353px;
+}
+
+.Buttons{
+    display: inline-flex;
+    gap: 72px;
+}
+
+button{
+    width: 140px;
+    height: 50px; 
+    color: #FFF;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    margin-left: 353px;
+    display: inline-block;
+}
+
+.video{
+    width: 90px;
+    height: 19px;
+    color: #AAA;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.Image{
+    width: 544.814px;
+    height: 374.843px;
+    flex-shrink: 0;
+    display: inline-block;
+    padding-bottom: 162px;
+}
+
+.Brand{
+    background: #FFF;
+    width: 1920px;
+    height: 243px;
+    margin-left: 353px;
+    display: inline;
+    gap: 48;
+}
+
+.Brand_logo{
+    width: 1200px;
+    height: 50px;
+    flex-shrink: 0;
+    display: inline;
+    gap: 48;
+    
+}
